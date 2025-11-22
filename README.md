@@ -1,2 +1,2 @@
-# Numeron
-Numeron — алхимическая ККИ в Telegram
+# Ordo
+Ordo — алхимическая ККИ в Telegram
